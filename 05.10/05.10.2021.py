@@ -1,4 +1,3 @@
-
 import random
 def random_name(names, surnames, sec_names, num):
     i = 0
